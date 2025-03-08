@@ -1,0 +1,48 @@
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+ img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+        text-align: center;
+        background-color: #141414;
+    }
+    .location {
+        color: #a6ff00;
+        font-size: 14px;
+        }
+    .ABDOU{color: WHITE;
+        font-size: 14px;
+       }   
+     .front {
+        color: white;
+        font-weight: bold;
+    }    
+    .FM{
+        color:white;        
+    }
+    .git{
+        color: white;
+    }
+    .linkedin{
+        color: white;
+    }
+    .Twitter{
+        color: white;
+    }
+    .Instegram{
+        color: white;
+    }
+    
+   
